@@ -18,7 +18,7 @@ F21BSEEN1E02083
 ____________________________________________________________________________
 
 
-we create four tables: "Student," "Employees," "Financing Voucher," "Program," and "Department." Here's a breakdown of the entities and attributes:
+we create five tables: "Student," "Employees," "Financing Voucher," "Program," and "Department." Here's a breakdown of the entities and attributes:
 
 The "Student" table has attributes such as student_id, student_name, date_of_birth, email, and program_id. The program_id is a foreign key referencing the "Program" table's primary key.
 
